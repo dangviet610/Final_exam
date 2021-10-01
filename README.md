@@ -19,3 +19,6 @@
 ### Ques 8: Draw chart about Price
 ### Ques 9: Draw pie chart to display rate the people paid to live in Town/City
 ### Ques 10: Draw 3 pie charts to compare three columns 'Town/City', 'District', 'County'
+
+# Style coding:
+### Use the PEP-8 style coding
